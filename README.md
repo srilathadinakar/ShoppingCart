@@ -1,8 +1,19 @@
-# React + Vite
+Shopping Cart
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is developed using router methods..
+Get the Api products data using fetch and useEffect..
 
-Currently, two official plugins are available:
+Update the cart functionalities using map.. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+When the products added the count is increased in the top of navbar..
+
+The products page will displays the products we selected.. 
+
+In the individual product page we will increase and decrease the product count.. 
+
+The total price is updated according to the quantity we selected..
+
+Final price is updated with discount values..
+
+
+
